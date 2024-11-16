@@ -41,7 +41,7 @@ To view or modify this project locally:
 2. Open in Browser: Navigate to http://localhost:3000 to view the project.
 
 ## Deployment
-The project is deployed and accessible at https://onlinebankservices.netlify.app/
+The project is deployed and accessible at https://onlinebankingservice.netlify.app/
 
 
 ## Contributing
