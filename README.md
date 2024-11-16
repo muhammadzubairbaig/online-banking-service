@@ -28,7 +28,7 @@ To view or modify this project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/muhammadzubairbaig/onlinebankservices.git
+   git clone ttps://github.com/muhammadzubairbaig/online-banking-service.git
 
    cd online-banking-service
     ```
