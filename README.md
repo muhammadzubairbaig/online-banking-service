@@ -2,7 +2,7 @@
 
 ![OnlineBankServices](src/assets/landing-page.png)
 
-### [✨ Visit Website](https://onlinebankservices.netlify.app/)
+### [✨ Visit Website](https://onlinebankingservice.netlify.app/)
 
 
 # OnlineBankServices
